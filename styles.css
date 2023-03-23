@@ -1,0 +1,22 @@
+/* Style for header */
+.header {
+  /* Background color */
+  background-color: #333;
+}
+
+/* Style for logo image */
+#logo {
+  /* Width */
+  width: 100px;
+}
+
+/* Style for navigation bar */
+.navbar {
+ /* Hide overflow */
+ overflow: hidden;
+}
+
+/* Style for navigation links */
+.navbar a {
+ /* Float left */
+ float
